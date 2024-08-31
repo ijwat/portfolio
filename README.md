@@ -1,5 +1,5 @@
 
 # portfolio
 
-Hi, I'm Justin Watson and this is a project I worked on in my Technical Writing Practicum. I was responsible for describing and documenting NetApp's FabricPool Architecture and Setup.
+Hi, I'm Justin Watson and this is my Technical Writing Portfolio! I am a graduate student at North Carolina State University studying Technical Communication. 
 
